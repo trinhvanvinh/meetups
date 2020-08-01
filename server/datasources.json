@@ -1,12 +1,12 @@
 {
   "db": {
-    "host": "localhost",
+    "host": "mongodb+srv://user:password@123@cluster0.y5dzs.mongodb.net",
     "port": 27017,
-    "url": "",
-    "database": "meetupz-app",
-    "password": "",
+    "url": "mongodb+srv://user:password@cluster0.y5dzs.mongodb.net/meetups?retryWrites=true&w=majority",
+    "database": "meetups",
+    "password": "admin@123",
     "name": "db",
-    "user": "",
+    "user": "admin",
     "useNewUrlParser": true,
     "connector": "mongodb"
   }
